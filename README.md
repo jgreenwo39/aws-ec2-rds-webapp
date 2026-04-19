@@ -4,7 +4,7 @@ A 3-tier web application deployed on AWS using EC2 for compute and RDS for manag
 
 ## Live Demo
 
-http://52.15.205.126/index.php
+http://3.151.20.180/index.php
 
 ## Architecture
 
