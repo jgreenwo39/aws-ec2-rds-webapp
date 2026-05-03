@@ -48,8 +48,17 @@ User → EC2 (Nginx + PHP) → RDS (MySQL)
 - **Database:** MySQL 8.4 on Amazon RDS
 - **Region:** us-east-2 (Ohio)
 
+## Related Projects
+
+Part of a four-project AWS portfolio:
+
+- 🌐 **[aws-ec2-rds-webapp](https://github.com/joegreenwoodtech/aws-ec2-rds-webapp)** *(this repo)* — 3-tier web application on EC2 + RDS
+- 📦 **[aws-static-website](https://github.com/joegreenwoodtech/aws-static-website)** — S3 + CloudFront static hosting
+- 🚀 **[aws-cicd-pipeline](https://github.com/joegreenwoodtech/aws-cicd-pipeline)** — GitHub Actions automation for the static site
+- 🏗️ **[terraform-vpc-ec2](https://github.com/joegreenwoodtech/terraform-vpc-ec2)** — Reusable VPC + EC2 module in Terraform
+
 ## Author
 
 **Joe Greenwood**
 AWS Cloud Practitioner
-[GitHub](https://github.com/jgreenwo39)
+[GitHub](https://github.com/joegreenwoodtech)
